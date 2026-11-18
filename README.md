@@ -1,4 +1,4 @@
-# Neural Syndrome Decoder for Imbalanced Syndrome Data (Toy Prototype)
+# Neural Syndrome Decoder for Imbalanced Syndrome Data 
 
 **Author:** Surat Sai Venkata Nagendra Babu
 **Affiliation:** B.Tech in Computer Science and Engineering, Amrita Vishwa Vidyapeetham
