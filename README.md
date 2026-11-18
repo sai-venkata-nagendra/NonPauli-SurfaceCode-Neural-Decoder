@@ -67,4 +67,4 @@ The dataset is partitioned via stratified sampling into **70% Training (17,500)*
 ## 5. References
 1. Shen, T., Chen, H., Huang, B., Takeshita, T., Vezvaee, A., Medalsy, I., & Lidar, D. A. (2026). *A Master-Equation Digital Twin for Quantum Error-Correction Syndrome Statistics Beyond Pauli Noise*. arXiv:2606.19848. GitHub: `USCqserver/DataRepo-Surface-Code-QMC-Sim`.
 2. Vezvaee, A., et al., & Lidar, D. A. (2026). *Surface code scaling on heavy-hex superconducting quantum processors*. Nature Communications 17, 9201 (arXiv:2510.18847).
-3. Harshith, Y. S., Menariya, N., Nagendra Babu, S. S. V., Venkateswaran, S., Batchu, R. K., & Kumar, C. (2026). *A Hybrid Deep Learning Approach for Multi-Class Eye Disease Classification*. Springer Nature Lecture Notes in Electrical Engineering (LNEE).
+3. Harshith, Y. S., Menariya, N., Nagendra Babu, S. S. V., Venkateswaran, S., Batchu, R. K., & Kumar, C. (2026). *A Hybrid Deep Learning Approach for Multi-Class Eye Disease Classification*. Springer Nature Lecture Notes in Electrical Engineering (LNEE)(Still in production stage).
