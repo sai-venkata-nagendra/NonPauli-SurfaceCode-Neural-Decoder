@@ -21,7 +21,7 @@ This repository does **not** use QMCtwin data or code.
 
 ---
 
-## 2. The toy dataset (generated in the notebook)
+## 2. dataset (generated in the notebook)
 
 A simple simulation I wrote myself:
 - 25,000 shots, 6 syndrome rounds, 9 data qubits, 8 syndrome checks.
