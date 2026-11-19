@@ -55,9 +55,9 @@ Inspired by:
 
 Compared to static unweighted MWPM, the proposed decoder achieves a **29.3% relative reduction in LER** (`15.10%` $\to$ `10.68%`), a **+10.69% gain in Macro-F1**, and nearly **2x higher recall on rare `Logical_Y` errors** (`37.13%` $\to$ `71.41%`) while maintaining `0.93` recall on error-free `Logical_I` shots and class-wise ROC-AUCs above `0.95` across all four classes (`0.967`, `0.975`, `0.957`, `0.967`).
 
-![Confusion Matrix and ROC Curves](<img width="1326" height="622" alt="image" src="https://github.com/user-attachments/assets/96aed5a5-153b-4e9e-b92b-111d403e6c09" />
+<img width="1326" height="622" alt="image" src="https://github.com/user-attachments/assets/96aed5a5-153b-4e9e-b92b-111d403e6c09" />
 
-)
+
 
 ## 5. Limitations and Next Steps
 This prototype addresses the initial single-seed and cross-entropy-only limitations, but three clear boundaries remain:
